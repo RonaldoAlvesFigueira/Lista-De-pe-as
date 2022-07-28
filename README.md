@@ -1,4 +1,4 @@
-# Lista-de-pe-as
+# Lista-de-peças
 Atividade Encontro Remoto 1 da UC8 Curso Full Stack Senai
 
 Codificação de um sistema de contagem de peças, aplicando a linguagem JavaScript.
